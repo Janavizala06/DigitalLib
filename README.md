@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="./assets/logo.png" alt="DigitalLib Logo" width="50" style="vertical-align: middle; margin-right: 10px;" />
   <span style="font-size: 2.2rem; font-weight: bold; vertical-align: middle;">DigitalLib</span>
 </p>
 
