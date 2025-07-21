@@ -18,7 +18,7 @@
 
 ## 📸 Landing Page Preview
 
-> 💡 _Upload your screenshot to `/assets/landing.png`_
+> 💡 _Upload your screenshot to `/assets/login.png`_
 
 <p align="center">
   <img src="./assets/landing.png" alt="Landing Page Screenshot" width="80%" />
