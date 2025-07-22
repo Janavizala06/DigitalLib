@@ -9,7 +9,7 @@
 
 ## 🌐 Live Demo
 
-🚀 [Visit Live Site](#) &nbsp; | &nbsp; 🔐 [Admin Panel](#) &nbsp; | &nbsp; 📖 [Student Portal](#)
+🚀 [Visit Live Site](https://digitallib.vercel.app/) &nbsp; | 
 
 ---
 
