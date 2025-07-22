@@ -1,8 +1,6 @@
 <p align="center">
-  <span style="font-size: 2.2rem; font-weight: bold; vertical-align: middle;">DigitalLib</span>
+  <img src="./assets/logo.png" alt="DigitalLib Logo" width="100" />
 </p>
-
-<p align="center">
   <b>Online Library Management System for Colleges</b><br/>
   <i>A modern, responsive, and powerful platform for managing books, members, and digital resources.</i>
 </p>
