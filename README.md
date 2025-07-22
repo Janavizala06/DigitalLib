@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo.png" alt="DigitalLib Logo" width="55%" />
+  <img src="./assets/logo1.png" alt="DigitalLib Logo" width="55%" />
 </p>
   <b>Online Library Management System for Colleges</b><br/>
   <i>A modern, responsive, and powerful platform for managing books, members, and digital resources.</i>
@@ -111,5 +111,5 @@ Every contribution makes **DigitalLib** better. Thank you for your support! 💙
 
 **Janavi Zala**  
 📧 [janavizala0612@gmail.com](mailto:janavizala0612@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/janavi-zala/) • [GitHub](https://github.com/janavizala)
+🔗 [LinkedIn](https://www.linkedin.com/in/janavi-zala-226117288/) • [GitHub](https://github.com/Janavizala06)
 
