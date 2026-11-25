@@ -31,8 +31,11 @@ export async function POST(req: NextRequest) {
         email: user.email,
       },
     });
-  } catch (error) {
+  } catch (error: any) {
     console.error("Error in signin:", error);
-    return NextResponse.json({ message: "Server error" }, { status: 500 });
+    return NextResponse.json(
+      { message: error?.message || "Server error" },
+      { status: 500 }
+    );
   }
 }

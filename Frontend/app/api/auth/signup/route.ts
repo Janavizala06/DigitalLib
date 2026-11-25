@@ -23,8 +23,11 @@ export async function POST(req: NextRequest) {
     await newUser.save();
 
     return NextResponse.json({ message: "User registered successfully" }, { status: 201 });
-  } catch (error) {
+  } catch (error: any) {
     console.error("Error in signup:", error);
-    return NextResponse.json({ message: "Server error" }, { status: 500 });
+    return NextResponse.json(
+      { message: error?.message || "Server error" },
+      { status: 500 }
+    );
   }
 }
